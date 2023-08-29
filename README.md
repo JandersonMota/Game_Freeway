@@ -2,7 +2,10 @@
 
 Bem-vindo ao nosso projeto Freeway Game, onde você terá a oportunidade de ajudar uma corajosa vaquinha a atravessar uma rodovia movimentada, evitando habilmente os obstáculos que se aproximam. Este jogo foi desenvolvido com a linguagem JavaScript, aproveitando a biblioteca p5.collide2D, para adicionar uma camada extra de desafio e diversão.
 
-![Freeway Game Screenshot](inserir_link_da_imagem.png)
+<p align="center">
+  <img src="https://github.com/JandersonMota/Game_Freeway/assets/80362674/cffabeff-cc06-4329-a9de-b97325bf9d10">
+</p>
+
 
 ## Descrição do Jogo
 No Freeway Game, você assume o controle de uma vaquinha determinada a cruzar uma estrada repleta de tráfego intenso. Seu objetivo é ajudar a vaquinha a atravessar com segurança para o outro lado, evitando ser atingida pelos carros que passam rapidamente.
@@ -35,6 +38,8 @@ Este projeto não possui uma licença específica, o que significa que você pod
 ## Agradecimentos
 Agradeço por jogar o Freeway Game e por apoiar meu projeto. Divirta-se e boa sorte na travessia!
 
-![Vaquinha corajosa](inserir_link_da_imagem_da_vaquinha.png)
+<p align="center">
+  <img src="https://github.com/JandersonMota/Game_Freeway/assets/80362674/8173528b-bded-43b8-8279-2bd86a30e1a3">
+</p>
 
 **Apreciamos sua participação!**
